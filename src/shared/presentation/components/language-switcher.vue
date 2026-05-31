@@ -1,6 +1,6 @@
 <script setup>
-import {useI18n} from "vue-i18n";
-const { locale, availableLocales } = useI18n();
+  import {useI18n} from "vue-i18n";
+  const { locale, availableLocales } = useI18n();
 
 </script>
 
